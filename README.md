@@ -1,3 +1,3 @@
 # paper-summarizer
 
-論文の要約を行うプログラム
+This program is to summarize a paper.
